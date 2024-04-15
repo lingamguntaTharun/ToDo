@@ -1,0 +1,53 @@
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 1
+Enter task: eating
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 4
+1. eating
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 1
+Enter task: drinking 
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 1
+Enter task: cooking
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 4
+1. eating
+2. drinking 
+3. cooking
+1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice: 3
+1. eating
+2. drinking 
+3. cooking
+Enter task number to edit: 3
+Enter new task description: 1. Add task
+2. Complete task
+3. Edit task
+4. View tasks
+5. Exit
+Enter your choice:
